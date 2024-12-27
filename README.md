@@ -1,4 +1,4 @@
-# Cooperation in the face of disaster: Code for the agent-based simulation
+# Cooperation in the face of disaster: Code for the agent-based simulation, and experiment data
 This repository contains the Python source code for the simulations as well as the experiment data in the paper "Cooperation in the face of disaster" by Marijane Luistro Jonsson and Markus Jonsson.
 
 ## Description of simulation
