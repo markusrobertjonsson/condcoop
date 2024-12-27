@@ -26,3 +26,7 @@ The file `Data_Main.xlsx` contains the contributions of the experiment participa
 
 - The sheet `DiffTreatments` contains the data for the treatments *Control*, *10P*, *40P*, *Impact*, and *Level* collected in Sweden and Phiippines.
 - The sheet `DiffProb` contains the data for the treatments *Control*, *10P*, *40P*, *70P*, and *100P* collected in Sweden.
+
+## License Information
+- **Code**: This repository's source code is licensed under the MIT License. See the LICENSE file.
+- **Data**: The data used in this research is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). See the LICENSE-DATA file.
