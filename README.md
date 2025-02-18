@@ -7,7 +7,7 @@ Each group interacts in 200 rounds of the baseline public-goods experiment used 
 
 - Each player is assigned a player-type based on the empirically found distribution of the four player-types _Unconditional Cooperator_ (UC), _Conditional Cooperator_ (CC), and _Free-rider_ (FR).
 - Each player-type uses the LCP profile determined by the emprrically found average profile for that player-type.
-- In each round each player gives a contribution as an integer 0-20, computed using the player's LCP profile and the average comtribution in the previous round of the other group members. In the first round, the average initial contributions for each player type is used.
+- In each round each player gives a contribution as an integer 0-20, computed using the player's LCP profile and the average contribution in the previous round of the other group members. In the first round, the average initial contributions for each player type is used.
 
 Figure 6 in the manuscript shows varying proportions of UC ($x$-axis), where the CC/FR ratio is fixed to the empirically found value 215/21 = 10.2. After 200 rounds (where we observed that the contribution levels had converged) the simulation was terminated and the converged group contribution $g$ was compared to the threshold level 60. If $g < 60$, the group is considered unsuccessful, otherwise successful. The proportion of successful groups in the population is then used as a measure of the population's success
 
